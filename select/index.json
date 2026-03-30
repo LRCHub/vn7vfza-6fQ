@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "かなしいうれしい",
+  "base_artist": "フレデリック",
+  "createdAt": "2026-03-30T12:51:35.202086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かなしいうれしい",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/01_かなしいうれしい_frederic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かなしいうれしい - Kanashii Ureshii",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/02_かなしいうれしい_-_Kanashii_Ureshii_frederic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かなしいうれしい",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/03_かなしいうれしい_frederic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かなしいうれしい",
+      "artist": "Frederic",
+      "has_synced": true,
+      "path": "select/04_かなしいうれしい_Frederic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かなしいうれしい",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/05_かなしいうれしい_frederic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かなしいうれしい",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_かなしいうれしい_フレデリック.txt"
+    }
+  ]
+}
